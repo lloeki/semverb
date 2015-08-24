@@ -1,0 +1,14 @@
+Style/Documentation:
+  Enabled: false
+
+Style/Semicolon:
+  AllowAsExpressionSeparator: true
+
+PerlBackrefs:
+  Enabled: false
+
+SpecialGlobalVars:
+  Enabled: false
+
+Style/TrailingComma:
+  EnforcedStyleForMultiline: comma
